@@ -91,18 +91,3 @@ void doeventwait_test(){
 	
 	
 }
-void doeventsig_test(){
-	
-}
-void doeventinfo_test(){
-	
-}
-void doeventchown_test(){
-	
-}
-void doeventchmod_test(){
-	
-}
-void doeventstat_test(){
-	
-}
